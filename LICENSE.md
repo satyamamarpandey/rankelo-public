@@ -23,9 +23,9 @@ SOFTWARE.
 ---
 
 **Scope note:** this license covers the original written material in this
-repository (README, USAGE, PRIVACY_POLICY, and other documentation files
-added here). It does not extend to Rankelo's product source code, which
-remains closed-source and is not distributed in this repository. Code
-snippets that appear inside `rankelo_ef_coding_session.md` are reproduced
-as a historical record of a real development session, not as licensed,
-reusable source — see `USAGE.md`.
+repository, meaning the README, USAGE, PRIVACY_POLICY, and any other
+documentation files added here. It does not extend to Rankelo's product
+source code, which remains closed-source and is not distributed in this
+repository. Code snippets that appear inside `rankelo_ef_coding_session.md`
+are reproduced as a historical record of a real development session, not
+as licensed, reusable source; see `USAGE.md` for the full explanation.
