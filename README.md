@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f.svg)](./LICENSE.md)
 [![Lint Markdown](https://github.com/satyamamarpandey/rankelo-public/actions/workflows/lint.yml/badge.svg)](./.github/workflows/lint.yml)
 
-A small, public companion repository for [Rankelo](https://rankelo.brandsap.com), a product by [Brandsap](https://brandsap.com). It exists to share one genuine coding-agent session for an [Entrepreneurs First](https://www.joinef.com/) application, along with the standard project files that make a repository easy to trust and easy to use.
+A small, public companion repository for [Rankelo](https://rankelo.brandsap.com/), a product by [Brandsap](https://brandsap.com/), created by [Satyam Pandey](https://pandeysatyam.com/). It exists to share one genuine coding-agent session for an [Entrepreneurs First](https://www.joinef.com/) application, along with the standard project files that make a repository easy to trust and easy to use.
 
 **This repository does not contain Rankelo's product source code.** Rankelo itself is closed-source, commercial software. What you'll find here is a real development artifact, an unedited transcript of a coding-agent session, plus documentation that explains exactly how it was produced.
 
