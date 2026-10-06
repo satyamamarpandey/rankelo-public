@@ -40,3 +40,7 @@ The prose written specifically for this repository (this README, `USAGE.md`, and
 ## Contact
 
 Brandsap, [contact@brandsap.com](mailto:contact@brandsap.com), Nagpur, Maharashtra, India.
+
+## Author
+
+Built by [Satyam Pandey](https://pandeysatyam.com/), founder of [Brandsap](https://brandsap.com/). Read the [Rankelo case study](https://pandeysatyam.com/projects/rankelo.html).
