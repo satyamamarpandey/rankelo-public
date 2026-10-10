@@ -11,7 +11,7 @@
 - Free website analysis: <https://rankelo.brandsap.com/audit.html>
 - Category: SEO, AEO and GEO growth platform
 
-**This repository is public documentation, not the product source.** Rankelo is closed-source commercial software. This repository explains how the free audit works and hosts one real, redacted development session.
+**This repository is public documentation, not the product source.** Rankelo is closed-source commercial software. This repository explains how the free audit works and how to read its report.
 
 ![Rankelo homepage](./docs/screenshots/homepage.png)
 
@@ -81,9 +81,7 @@ The free audit fetches public HTTP and HTTPS targets only. Private networks, met
 
 Run a free website analysis at <https://rankelo.brandsap.com/audit.html>. From any report you can print or save it as a PDF, copy a summary, or request an implementation plan from the Rankelo team.
 
-## Development showcase
-
-This repository also hosts [`rankelo_ef_coding_session.md`](./rankelo_ef_coding_session.md): an authentic, redacted transcript of a real Claude Code session from Rankelo's development, originally shared for an [Entrepreneurs First](https://www.joinef.com/) application. In it, the agent builds part of Rankelo's agent-safety layer: the "Guardian" policy engine, a permission-scoped tool registry, and defences against prompt injection from untrusted web content. Nothing in the transcript is invented or rewritten. [`USAGE.md`](./USAGE.md) explains how it was produced and what was redacted.
+## How Rankelo is built
 
 Rankelo is built with the help of AI coding agents, mainly Claude Code and Codex. These are development tools, not part of how Rankelo runs. The product itself is provider-agnostic: the default LLM route is [OpenRouter](https://openrouter.ai), and OpenAI, Anthropic and Gemini are optional adapters behind an explicit provider-mode switch and a daily spend cap that defaults to zero.
 
@@ -91,15 +89,13 @@ Rankelo is built with the help of AI coding agents, mainly Claude Code and Codex
 
 | File | What it is |
 | --- | --- |
-| [`rankelo_ef_coding_session.md`](./rankelo_ef_coding_session.md) | The redacted development session transcript |
-| [`USAGE.md`](./USAGE.md) | How to read the transcript and the rules followed while preparing it |
 | [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md) | A privacy notice for this repository, with a link to the product privacy policy |
 | [`LICENSE.md`](./LICENSE.md) | MIT license for the original prose in this repository |
 | [`docs/screenshots/`](./docs/screenshots/) | Screenshots of the live product |
 
 ## License
 
-The prose written for this repository (this README, `USAGE.md` and `PRIVACY_POLICY.md`) is released under the [MIT License](./LICENSE.md). The session transcript is a historical record shared for transparency, not a reusable code sample. Screenshots show the live product and are not covered by the MIT license.
+The prose written for this repository (this README and `PRIVACY_POLICY.md`) is released under the [MIT License](./LICENSE.md). Screenshots show the live product and are not covered by the MIT license.
 
 ## Company and contact
 

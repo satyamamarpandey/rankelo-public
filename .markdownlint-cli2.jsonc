@@ -3,7 +3,6 @@
   "config": {
     "MD013": false
   },
-  // The session transcript is a verbatim record and is never reformatted;
   // LICENSE.md is the standard MIT text.
-  "ignores": ["rankelo_ef_coding_session.md", "LICENSE.md"]
+  "ignores": ["LICENSE.md"]
 }
