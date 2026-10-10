@@ -14,7 +14,7 @@ None. This repository contains static Markdown files, nothing more. It does not 
 
 Rankelo, the product, has its own privacy policy, covering account data, workspace data, and product operations. It is published at:
 
-**https://rankelo.brandsap.com/privacy.html**
+**<https://rankelo.brandsap.com/privacy.html>**
 
 That policy, not this file, governs any data processed by the live Rankelo product.
 
